@@ -9,6 +9,7 @@ const lowOrHi = document.querySelector('.lowOrHi');
 const startOver = document.querySelector('.resultParas');
 
 const p = document.createElement('p');
+console.log(randomNumber);
 
 let prevGuess = [];
 let numGuess = 1;
